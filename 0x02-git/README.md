@@ -1,1 +1,1 @@
-Lets start coding!!
+Think twice and code once!!
